@@ -1,0 +1,21 @@
+{
+  "name": "huanjun-blog",
+  "version": "1.0.0",
+  "description": "huanjun's personal blog",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "huanjun",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.5.0",
+    "vue": "^3.5.13"
+  },
+  "dependencies": {
+    "medium-zoom": "^1.1.0"
+  }
+}
