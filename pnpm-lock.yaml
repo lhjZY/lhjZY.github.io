@@ -12,8 +12,8 @@ importers:
         specifier: ^1.6.4
         version: 1.6.4(@algolia/client-search@5.46.2)(postcss@8.5.6)(search-insights@2.17.3)
       vitepress-theme-maple:
-        specifier: ^1.0.4
-        version: 1.0.4(vitepress@1.6.4(@algolia/client-search@5.46.2)(postcss@8.5.6)(search-insights@2.17.3))(vue@3.5.26)
+        specifier: ^1.1.1
+        version: 1.1.1(vitepress@1.6.4(@algolia/client-search@5.46.2)(postcss@8.5.6)(search-insights@2.17.3))(vue@3.5.26)
     devDependencies:
       vue:
         specifier: ^3.5.13
@@ -783,8 +783,8 @@ packages:
       terser:
         optional: true
 
-  vitepress-theme-maple@1.0.4:
-    resolution: {integrity: sha512-xj8PMG+kugfNPUO4pRG0Jvg4zavv6LiFyKztkNcYFlAOPcSeVH+CWXm+t4Cl+RVmOImuEEztnDla8wYbFqYFrw==}
+  vitepress-theme-maple@1.1.1:
+    resolution: {integrity: sha512-baSRQB6JVc8+aUpBuODWLk8D2Nu2GGeNDKr2A1cxgO6p7ing9stxgHnE5QNPqIiFcKvJkdRKvZF3c+PTURmmIQ==}
     peerDependencies:
       vitepress: ^1.0.0
       vue: ^3.3.0
@@ -1565,7 +1565,7 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  vitepress-theme-maple@1.0.4(vitepress@1.6.4(@algolia/client-search@5.46.2)(postcss@8.5.6)(search-insights@2.17.3))(vue@3.5.26):
+  vitepress-theme-maple@1.1.1(vitepress@1.6.4(@algolia/client-search@5.46.2)(postcss@8.5.6)(search-insights@2.17.3))(vue@3.5.26):
     dependencies:
       medium-zoom: 1.1.0
       vitepress: 1.6.4(@algolia/client-search@5.46.2)(postcss@8.5.6)(search-insights@2.17.3)
