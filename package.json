@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "vitepress": "^1.6.4",
-    "vitepress-theme-maple": "^1.0.3"
+    "vitepress-theme-maple": "^1.0.4"
   }
 }
